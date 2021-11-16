@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/utarasama/ecommerce/issues"
   },
-  "homepage": "https://github.com/utarasama/ecommerce#readme"
+  "homepage": "https://github.com/utarasama/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
